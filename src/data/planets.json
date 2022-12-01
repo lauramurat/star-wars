@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Bothawui",
+    "rotation_period": "3",
+    "orbital_period": "549",
+    "diameter": "7200",
+    "climate": "frozen",
+    "gravity": "1.1 standard",
+    "terrain": "tundra, ice caves, mountain ranges",
+    "surface_water": "100",
+    "population": "unknown",
+    "url": "https://www.swleague.ru/_pu/2/21151913.jpg"
+  },
+  {
+    "name": "Exegol",
+    "rotation_period": "7",
+    "orbital_period": "364",
+    "diameter": "12500",
+    "climate": "temperate",
+    "gravity": "1 standard",
+    "terrain": "grasslands, mountains",
+    "surface_water": "40",
+    "population": "2000000000",
+    "created": "2014-12-10T11:35:48.479000Z",
+    "edited": "2014-12-20T20:58:18.420000Z",
+    "url": "https://static1.srcdn.com/wordpress/wp-content/uploads/2020/04/Star-Wars-The-Rise-of-Skywalker-Exegol.jpg?q=50&fit=crop&w=1500&dpr=1.5"
+  },
+  {
+    "name": "Bespin",
+    "rotation_period": "5",
+    "orbital_period": "4818",
+    "diameter": "10200",
+    "climate": "temperate, tropical",
+    "gravity": "1 standard",
+    "terrain": "jungle, rainforests",
+    "surface_water": "8",
+    "population": "1000",
+    "created": "2014-12-10T11:37:19.144000Z",
+    "edited": "2014-12-20T20:58:18.421000Z",
+    "url": "https://www.denofgeek.com/wp-content/uploads/2021/04/star-wars-bespin-cloud-city.jpg?resize=1024,577"
+  }
+]
